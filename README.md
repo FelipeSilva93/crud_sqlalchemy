@@ -5,6 +5,7 @@
 
 # SQLAlchemy C.R.U.D
 
+
 <!-- Add buttons here -->
 ![GitHub last commit](https://img.shields.io/github/last-commit/FelipeSilva93/crud_sqlalchemy)
 
@@ -61,7 +62,7 @@ Here is a random GIF as a placeholder.
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [SQLAlchemy C.R.U.D](#project-title)
+- [SQLAlchemy C.R.U.D](#sqlalchemy-crud)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
