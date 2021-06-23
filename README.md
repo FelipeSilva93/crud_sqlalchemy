@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Add banner here -->
 
 # SQLAlchemy C.R.U.D
@@ -155,3 +156,10 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 <!-- Add the footer here -->
 
 <!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+=======
+<<<<<<< HEAD
+# crud_sql_alchemy
+=======
+# crud_sqlalchemy
+>>>>>>> 4573d45a5ccfeef05657d87884df6352f8843ff4
+>>>>>>> crud_sqlalchemy/main
