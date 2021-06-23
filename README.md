@@ -4,7 +4,7 @@
 # SQLAlchemy C.R.U.D
 
 <!-- Add buttons here -->
-https://img.shields.io/github/last-commit/FelipeSilva93/crud_sqlalchemy
+![GitHub last commit](https://img.shields.io/github/last-commit/FelipeSilva93/crud_sqlalchemy)
 
 <!-- Describe your project in brief -->
 
