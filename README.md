@@ -61,7 +61,7 @@ Here is a random GIF as a placeholder.
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Project Title](#SQLAlchemy C.R.U.D)
+- [SQLAlchemy C.R.U.D](#project-title)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -160,10 +160,3 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 <!-- Add the footer here -->
 
 <!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
-=======
-<<<<<<< HEAD
-# crud_sql_alchemy
-=======
-# crud_sqlalchemy
->>>>>>> 4573d45a5ccfeef05657d87884df6352f8843ff4
->>>>>>> crud_sqlalchemy/main
