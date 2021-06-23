@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 <!-- Add banner here -->
+![Banner](https://github.com/FelipeSilva93/crud_sqlalchemy/header.png)
+
 
 # SQLAlchemy C.R.U.D
 
