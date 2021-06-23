@@ -8,6 +8,7 @@ Fique a vontade para testar o projeto
 # Instalação
 
 git init
+
 git clone git@github.com:FelipeSilva93/crud_sqlalchemy.git
 
 # Usage
