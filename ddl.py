@@ -14,7 +14,7 @@ def criar_produto(nome, nome_fornecedor):
         result = s.execute(query_fornecedor).scalar()
 
         # se result for False, cadastra o novo fornecedor e coloca no produto
-        # se for verdadeiro, apenas da um append desse produto na lista dos fornecedores
+        # se for verdadeiro, apenas da um append desse produto na lista dos fornece
         if not result:
             novo_fornecedor = Fornecedor(nome=nome_fornecedor)
             produto.fornecedores.append(novo_fornecedor)
