@@ -1,6 +1,7 @@
 # Crud com SQLAlchemy
 
 Projeto simples onde foi testado diversas funcionalidades do SQLAlchemy 2.0.
+Fique a vontade para testar o projeto
 
 
 # Instalação
